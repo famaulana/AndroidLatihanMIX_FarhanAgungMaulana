@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "606286624186",
+    "firebase_url": "https://androidmix-social-media.firebaseio.com",
+    "project_id": "androidmix-social-media",
+    "storage_bucket": "androidmix-social-media.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606286624186:android:4cd4b37b8433c6a2",
+        "android_client_info": {
+          "package_name": "com.example.androidlatihanmix_socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606286624186-e265lmk94bfjc12v4ulgkk39umkqnbge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSydSGhmNYP5ED3GD3WsoJ-eodmkfFRJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606286624186-e265lmk94bfjc12v4ulgkk39umkqnbge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
